@@ -1,0 +1,35 @@
+* {
+    border: none;
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+  }
+  
+  body {
+     
+  }
+
+
+  .link {
+        color: aquamarine;
+        font-size: 16px;
+        margin-top: 30px;
+  }
+
+
+  h1 {
+      font-size: 50px;
+      font-weight: normal;
+      color: white;
+  }
+
+  h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
